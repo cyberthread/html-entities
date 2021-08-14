@@ -7,24 +7,22 @@ There are two references you might find particularly helpful with this challenge
 
 ## Hints
 You'll need the following HTML tags:
-- abbr
-- time
-- q
+- abbr (4 instances)
+- time (4 instances)
+- q (1 instance)
+- var (2 instances)
+- em (1 instance)
 
 You'll need to address the following symbols, characters and punctuation:
-- em dash
-- en dash
-- ellipsis
-- fraction
-- accented and non-English characters
-- math symbols
-- copyright symbol
-- single quotes
+- em dash (1 instance)
+- en dash (1 instance)
+- ellipsis (1 instance)
+- accented and non-English characters (2 instances)
+- math symbols (2 instances)
+- copyright symbol (1 instance)
+- single quotes (2 instances)
 
-In total there are 29 inline text semantics instances that require additional HTML tags and 19 cases where you'll need to replace what is in the content with an HTML entity.
 
 ### Requirements
-- You each have your own repository, but you can work collaboratively and only need to submit the URL of one repository.
+- This assignment is collaborative. You each have your own repository, but you will submit only one repository on behalf of the team.
 - You do not need to make this live.
-- This activity is timed; do what you can in the time frame.
-- When time is up the TA will look at your code and verify how many instances your team found. You will submit the verified number of instances and the URL to the repository in Blackboard to get credit for this assignment.
